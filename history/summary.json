@@ -4,17 +4,17 @@
     "url": "https://www.dranem.me",
     "icon": "https://favicons.githubusercontent.com/www.dranem.me",
     "slug": "dranem-me",
-    "status": "up",
+    "status": "down",
     "uptime": "97.12%",
     "uptimeDay": "91.33%",
     "uptimeWeek": "97.12%",
     "uptimeMonth": "97.12%",
     "uptimeYear": "97.12%",
-    "time": 1453,
-    "timeDay": 788,
-    "timeWeek": 1453,
-    "timeMonth": 1453,
-    "timeYear": 1453,
+    "time": 1370,
+    "timeDay": 705,
+    "timeWeek": 1370,
+    "timeMonth": 1370,
+    "timeYear": 1370,
     "dailyMinutesDown": {
       "2021-06-24": 125
     }
