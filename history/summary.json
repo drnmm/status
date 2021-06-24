@@ -4,18 +4,20 @@
     "url": "https://www.dranem.me",
     "icon": "https://favicons.githubusercontent.com/www.dranem.me",
     "slug": "dranem-me",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1840,
-    "timeDay": 1617,
-    "timeWeek": 1840,
-    "timeMonth": 1840,
-    "timeYear": 1840,
-    "dailyMinutesDown": {}
+    "time": 1661,
+    "timeDay": 832,
+    "timeWeek": 1661,
+    "timeMonth": 1661,
+    "timeYear": 1661,
+    "dailyMinutesDown": {
+      "2021-06-24": 0
+    }
   },
   {
     "name": "Youtube",
