@@ -1,30 +1,21 @@
 [
   {
-    "name": "dranem.me",
+    "name": "Main",
     "url": "https://www.dranem.me",
     "icon": "https://favicons.githubusercontent.com/www.dranem.me",
-    "slug": "dranem-me",
+    "slug": "main",
     "status": "up",
-    "uptime": "31.20%",
-    "uptimeDay": "1.13%",
-    "uptimeWeek": "5.87%",
-    "uptimeMonth": "31.20%",
-    "uptimeYear": "31.20%",
-    "time": 1144,
-    "timeDay": 244,
-    "timeWeek": 448,
-    "timeMonth": 1144,
-    "timeYear": 1144,
-    "dailyMinutesDown": {
-      "2021-07-01": 169,
-      "2021-06-30": 1440,
-      "2021-06-29": 1440,
-      "2021-06-28": 1440,
-      "2021-06-27": 1440,
-      "2021-06-26": 1440,
-      "2021-06-25": 1371,
-      "2021-06-24": 749
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 897,
+    "timeDay": 897,
+    "timeWeek": 897,
+    "timeMonth": 897,
+    "timeYear": 897,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Blog",
@@ -37,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1657,
-    "timeDay": 1657,
-    "timeWeek": 1657,
-    "timeMonth": 1657,
-    "timeYear": 1657,
+    "time": 2239,
+    "timeDay": 2239,
+    "timeWeek": 2239,
+    "timeMonth": 2239,
+    "timeYear": 2239,
     "dailyMinutesDown": {}
   }
 ]
