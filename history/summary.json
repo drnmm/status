@@ -4,18 +4,20 @@
     "url": "https://www.dranem.me",
     "icon": "https://favicons.githubusercontent.com/www.dranem.me",
     "slug": "main",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.98%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
     "time": 897,
     "timeDay": 897,
     "timeWeek": 897,
     "timeMonth": 897,
     "timeYear": 897,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-07-01": 0
+    }
   },
   {
     "name": "Blog",
