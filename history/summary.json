@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/www.dranem.me",
     "slug": "main",
     "status": "up",
-    "uptime": "99.06%",
+    "uptime": "99.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.06%",
-    "uptimeYear": "99.06%",
-    "time": 280,
-    "timeDay": 106,
-    "timeWeek": 175,
-    "timeMonth": 280,
-    "timeYear": 280,
+    "uptimeMonth": "99.15%",
+    "uptimeYear": "99.15%",
+    "time": 266,
+    "timeDay": 93,
+    "timeWeek": 111,
+    "timeMonth": 266,
+    "timeYear": 266,
     "dailyMinutesDown": {
       "2021-07-01": 134
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1222,
-    "timeDay": 826,
-    "timeWeek": 940,
-    "timeMonth": 1222,
-    "timeYear": 1222,
+    "time": 1253,
+    "timeDay": 1620,
+    "timeWeek": 1009,
+    "timeMonth": 1253,
+    "timeYear": 1253,
     "dailyMinutesDown": {}
   }
 ]
