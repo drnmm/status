@@ -4,18 +4,19 @@
     "url": "https://www.dranem.me",
     "icon": "https://favicons.githubusercontent.com/www.dranem.me",
     "slug": "main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 178,
-    "timeDay": 173,
-    "timeWeek": 206,
-    "timeMonth": 199,
+    "timeDay": 157,
+    "timeWeek": 198,
+    "timeMonth": 197,
     "timeYear": 178,
     "dailyMinutesDown": {
+      "2022-05-27": 0,
       "2021-12-17": 22,
       "2021-07-01": 134
     }
@@ -25,17 +26,19 @@
     "url": "https://links.dranem.me",
     "icon": "https://favicons.githubusercontent.com/links.dranem.me",
     "slug": "bookmarks",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 482,
-    "timeDay": 494,
-    "timeWeek": 499,
-    "timeMonth": 488,
-    "timeYear": 482,
-    "dailyMinutesDown": {}
+    "time": 478,
+    "timeDay": 295,
+    "timeWeek": 448,
+    "timeMonth": 475,
+    "timeYear": 478,
+    "dailyMinutesDown": {
+      "2022-05-27": 0
+    }
   }
 ]
