@@ -26,18 +26,19 @@
     "url": "https://links.dranem.me",
     "icon": "https://favicons.githubusercontent.com/links.dranem.me",
     "slug": "bookmarks",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.99%",
-    "time": 488,
-    "timeDay": 493,
-    "timeWeek": 523,
-    "timeMonth": 509,
-    "timeYear": 488,
+    "time": 485,
+    "timeDay": 304,
+    "timeWeek": 472,
+    "timeMonth": 497,
+    "timeYear": 485,
     "dailyMinutesDown": {
+      "2022-06-18": 0,
       "2022-05-27": 21
     }
   }
